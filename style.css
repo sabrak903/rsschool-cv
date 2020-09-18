@@ -1,0 +1,21 @@
+.box {
+  width: 1024px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #f7f7f7;
+  border: 1px solid #eeeeee;
+  border-radius: 10px;
+}
+
+.picture {
+  margin: 20px;
+  float: left;
+}
+.list {
+  font-size: 18px;
+  line-height: 24px;
+  color: #333;
+}
+.link {
+  color: blue;
+}
