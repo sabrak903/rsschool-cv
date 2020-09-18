@@ -1,6 +1,6 @@
-#Hello!
+# Hello!
 
-##Here you can find a brief information about me.
+## Here you can find a brief information about me.
 
 1. **Name and surname**: Dmitry Rubtsov
 2. **Contacts for communication**:
